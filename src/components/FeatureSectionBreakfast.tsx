@@ -28,7 +28,7 @@ const FeatureSectionBreakfast = () => {
       <div className=" grid sm:grid-cols-2 lg:grid-cols-5 md:grid-cols-4 pt-8 gap-2 cursor-pointer">
         <div>
           <img
-            src="/feature__1.webp"
+            src="/feature__2.webp"
             className=" w-full h-full object-cover"
             alt=""
           />{" "}
