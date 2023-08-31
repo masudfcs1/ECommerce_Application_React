@@ -1,11 +1,11 @@
-import "./App.css";
+import Navbar from "./Navbar";
 
-function App() {
+const App = () => {
   return (
-    <>
-      <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    </>
+    <main>
+      <Navbar />
+    </main>
   );
-}
+};
 
 export default App;
