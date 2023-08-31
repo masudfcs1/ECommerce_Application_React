@@ -53,7 +53,7 @@ const Hero = () => {
             <h2 className="text-2xl sm:text-3xl font-bold">Best Yummy Chips</h2>
             <p className="text-gray-500 text-xl pt-4">Starting At</p>
             <div className="font-medium text-red-600 text-2xl sm:text-4xl pb-8">
-              $9
+              $9.9
             </div>
             <div className="bg-green-600 hover:bg-accent text-white rounded-full w-fit flex items-center gap-4 px-4 py-2 text-[14px] cursor-pointer">
               Shop Now <BsArrowRight />

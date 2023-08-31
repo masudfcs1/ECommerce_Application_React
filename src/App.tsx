@@ -1,3 +1,4 @@
+import Category from "./Category";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 
@@ -6,6 +7,7 @@ const App = () => {
     <main>
       <Navbar />
       <Hero />
+      <Category />
     </main>
   );
 };
