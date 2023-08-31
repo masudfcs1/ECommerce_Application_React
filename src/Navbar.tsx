@@ -2,7 +2,7 @@ import { SiPurescript } from "react-icons/si";
 import { FiShoppingCart } from "react-icons/fi";
 import { AiOutlineUser } from "react-icons/ai";
 import { BiSearchAlt2 } from "react-icons/bi";
-import CartCountBadge from "./CartCountBadge";
+import CartCountBadge from "./components/CartCountBadge";
 
 const Navbar = () => {
   return (
