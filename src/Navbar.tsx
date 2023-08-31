@@ -1,12 +1,18 @@
+import { SiPurescript } from "react-icons/si";
 import { FiShoppingCart } from "react-icons/fi";
 import { AiOutlineUser } from "react-icons/ai";
 import { BiSearchAlt2 } from "react-icons/bi";
 import CartCountBadge from "./CartCountBadge";
+
 const Navbar = () => {
   return (
     <div className=" container hidden lg:block">
       <div className=" flex justify-between items-center pt-8">
-        <h1 className=" text-4xl font-medium"> Logo</h1>
+        <h1 className=" text-2xl font-medium flex items-center justify-center ">
+          {" "}
+          <SiPurescript className="items-center text-[29px]" />
+          Pure
+        </h1>
         <div className=" relative w-full max-w-[400px] ">
           <input
             type="text"
