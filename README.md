@@ -1,6 +1,6 @@
 # ECommerce_LandingPage_Application_React,typescript
 
-
+![Group 2](https://github.com/masudfcs1/ECommerce_Application_React/assets/57311382/be31e5f2-6f4f-42a8-a2aa-04e8412f36a4)
 ![1](https://github.com/masudfcs1/ECommerce_Application_React/assets/57311382/59e38c88-4575-4232-908a-0a7c18345cbc)
 ![2](https://github.com/masudfcs1/ECommerce_Application_React/assets/57311382/ef712cfc-2721-4d97-b1c2-51cd86810f35)
 ![3](https://github.com/masudfcs1/ECommerce_Application_React/assets/57311382/51d16d1b-baba-4b80-adcc-e3fdc5b0e136)
